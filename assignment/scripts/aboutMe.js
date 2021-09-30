@@ -85,7 +85,7 @@ switch(mostPets) {
   case pets:
     mostPets = pets;
     console.log('You have', pets + ' pets ' + 'than your friends', friendsPets + ' pets');
-    console.log('Congraulations!! you have the most pets', mostPets);
+    console.log('Congraulations! you have the most pets', mostPets);
     break;
   case friendsPets:
     mostPets = friendsPets;
